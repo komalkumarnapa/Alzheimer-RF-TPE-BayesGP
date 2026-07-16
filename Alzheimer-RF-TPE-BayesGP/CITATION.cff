@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+
+title: An Optimized Machine Learning Framework Integrating Feature Selection and Bayesian–Tree-Structured Parzen Estimator Hyperparameter Optimization for Alzheimer’s Disease Prediction
+
+authors:
+  - family-names: Kumar
+    given-names: N. Komal
+
+license: MIT

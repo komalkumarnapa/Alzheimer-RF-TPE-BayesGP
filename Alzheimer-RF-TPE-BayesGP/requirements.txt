@@ -1,0 +1,14 @@
+numpy
+pandas
+scikit-learn
+imbalanced-learn
+optuna
+scikit-optimize
+boruta
+statsmodels
+matplotlib
+scipy
+xgboost
+joblib
+openpyxl
+tqdm

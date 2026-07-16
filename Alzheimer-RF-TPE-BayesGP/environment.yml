@@ -1,0 +1,22 @@
+name: alzheimer_rf
+
+channels:
+  - conda-forge
+
+dependencies:
+
+  - python=3.11
+  - numpy
+  - pandas
+  - scikit-learn
+  - scipy
+  - matplotlib
+  - statsmodels
+  - pip
+
+  - pip:
+      - optuna
+      - scikit-optimize
+      - boruta
+      - imbalanced-learn
+      - xgboost
