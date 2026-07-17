@@ -48,7 +48,7 @@ class FeatureSelector:
 
             ),
 
-            cv=5,
+            cv=10,
 
             scoring="accuracy"
 
