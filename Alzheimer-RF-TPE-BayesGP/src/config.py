@@ -5,7 +5,7 @@ Configuration File
 import random
 import numpy as np
 
-SEED = 42
+SEED = 44
 random.seed(SEED)
 np.random.seed(SEED)
 
